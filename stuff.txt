@@ -1,0 +1,74 @@
+::Magic Stuff::
+format{[name]: [link]}
+Wayne Dobson: http://www.youtube.com/watch?v=nw593b3AZXM
+Piff: http://www.youtube.com/watch?v=Rey_FNWQx-8
+Jon Archer: http://www.youtube.com/watch?v=QxHSYKRA1Pc
+Gazzo: http://www.youtube.com/watch?v=xlwkHiuDNTo
+Penn and Teller: http://www.youtube.com/watch?v=8osRaFTtgHo
+Teller: http://www.youtube.com/watch?v=nZM4Iu0sosM
+Michael Vincent: http://www.youtube.com/watch?v=Phg5NSg0V_E
+Michael Vincent 2: http://www.youtube.com/watch?v=8lHRWjVAf0s
+Michael Vincent 3: http://www.youtube.com/watch?v=VWkj6bbYKDw
+Mathieu Bich: http://www.youtube.com/watch?feature=fvwp&NR=1&v=OpthjI1z2FM
+Virtuoso Test Room: http://www.youtube.com/watch?v=1oHNtE-uOAk
+Dan and Dave: http://www.youtube.com/watch?v=LWdAgm1AmPs
+Shade: http://www.youtube.com/watch?v=6tnusiJFnlw
+
+::Inspirational Quotes::
+format{[name]: [quote]}
+Helen Keller:The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.
+Helen Keller: When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us.
+Eeyore: End of the road. Nothing to do, and no hope of things getting better.
+Eeyore 2: Don't bustle me. Don't now-then me.
+Eeyore 3: No Give and Take. No Exchange of Thought. It gets you nowhere, particularly if the other person's tail is only just in sight for the second half of the conversation.
+Napoleon Hill: Whatever the mind of man can conceive and believe, it can achieve.
+Albert Einstein: Strive not to be a success, but rather to be of value.
+Albert Einstein 2: A person who never made a mistake never tried anything new.
+Robert Frost: Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.
+Wayne Gretzky: You miss 100% of the shots you don’t take.
+Michael Jordan: I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.
+Buddha: The mind is everything. What you think you become.
+Chinese Proverb: The best time to plant a tree was 20 years ago. The second best time is now.
+Socrates: An unexamined life is not worth living.
+Steve Jobs: Your time is limited, so don’t waste it living someone else’s life.
+Pablo Picasso: Every child is an artist.  The problem is how to remain an artist once he grows up.
+Christopher Columbus: You can never cross the ocean until you have the courage to lose sight of the shore.
+Mark Twain: The two most important days in your life are the day you are born and the day you find out why.
+Aristotle: There is only one way to avoid criticism: do nothing, say nothing, and be nothing.
+Japanese Proverb: Fall seven times and stand up eight.
+Henry Ford: When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.
+Norman Vincent Peale: Change your thoughts and you change your world.
+
+::Jokes::
+format{[question]: [answer]}
+Why shouldn't you write with a broken pencil?: Because it's pointless!
+What did the monkey say when he caught his tail in the revolving door?: It won't be long now.
+What did one hat say to the other?: You stay here, and I'll go on a-head.
+What did one wall say to the other?: Meet you in the corner.
+Why didn't the skeleton go to the party?: He had no body to go with.
+What kind of guns do bees use?: BeeBee guns
+Why did the scarecrow get promoted?: He was out-standing in his field!
+Why did the sheep cross the road?: To go to the baaaaaaa-throom.
+Two pretzels were walking on the street. One was a-salted.
+What happened when the cow jumped over the barbed wire fence?: Udder destruction.
+Two fish are in a tank. One says to the other, "Can you drive this thing?"
+Two muffins are in an oven. One says, "It's hot in here!" The other goes, "Holy crap! A talking muffin!!!!"
+
+::Songs::
+format{[name]: [link]}
+The Lion Sleeps Tonight (Hippo): http://www.youtube.com/watch?v=8E8xMcXmI9E
+Hakuna Matata: http://www.youtube.com/watch?v=xB5ceAruYrI
+You'll Be in My Heart: http://www.youtube.com/watch?v=TgCj8AeqNIc
+Don't Worry Be Happy: http://www.youtube.com/watch?v=d-diB65scQU
+Trashin' the Camp: http://www.youtube.com/watch?v=-rxOVpetZTY
+Sweet Pea (Gabe Bondoc): http://www.youtube.com/watch?v=y_M8xt7p5H0
+
+::Puppies::
+format{[link]}
+http://images2.fanpop.com/image/photos/9400000/Aaaaaawwwwwwwwww-Sweet-puppies-9415255-1600-1200.jpg
+http://images5.fanpop.com/image/photos/31100000/cute-puppies-puppies-and-more-31104113-1024-768.jpg
+http://media2.s-nbcnews.com/j/MSNBC/Components/Photo/_new/tdy-121010-puppies-03.grid-6x2.jpg
+http://images2.fanpop.com/image/photos/13300000/Cute-Puppy-puppies-13379771-1280-800.jpg
+
+
+
